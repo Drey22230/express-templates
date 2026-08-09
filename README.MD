@@ -150,7 +150,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Drey22230/express-templates.git
-cd express template
+cd express-template
 ```
 
 Install dependencies:
