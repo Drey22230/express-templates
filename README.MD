@@ -186,7 +186,7 @@ npm run dev
 The server will run on:
 
 ```text
-http://localhost:3000
+http://localhost:5000
 ```
 
 ## Build
